@@ -9,3 +9,7 @@ The code is fully front-end and was based on a table from a link that is availab
 - KHBBS_system.js - contains the parser used to make the DB. Since the page is not available anymore, guess it's kinda useless.
 
 The code is old but it works.
+
+Live Demo
+
+http://maikoengelke.com/khbbs/
